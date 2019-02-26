@@ -1,0 +1,6 @@
+framework module TRUNetworking2 {
+  umbrella header "TRUNetworking2-umbrella.h"
+
+  export *
+  module * { export * }
+}

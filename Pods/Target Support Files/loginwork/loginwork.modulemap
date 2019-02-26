@@ -1,0 +1,6 @@
+framework module loginwork {
+  umbrella header "loginwork-umbrella.h"
+
+  export *
+  module * { export * }
+}

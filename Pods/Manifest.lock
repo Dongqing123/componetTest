@@ -1,0 +1,22 @@
+PODS:
+  - loginwork (0.1.0):
+    - TRUNetworking2
+  - TRUNetworking2 (0.1.0)
+
+DEPENDENCIES:
+  - loginwork (from `Lib/loginwork`)
+  - TRUNetworking2 (from `Lib/TRUNetworking2`)
+
+EXTERNAL SOURCES:
+  loginwork:
+    :path: Lib/loginwork
+  TRUNetworking2:
+    :path: Lib/TRUNetworking2
+
+SPEC CHECKSUMS:
+  loginwork: e20c17ab658c99d7b0de377050894f16fa184e7d
+  TRUNetworking2: da4ffb6c12fe6acd3fd71a570333adbc50a78a9d
+
+PODFILE CHECKSUM: d8cb1b06d5e0f2eefe3e48f17c2c8ea6a7772d2d
+
+COCOAPODS: 1.5.3
